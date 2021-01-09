@@ -110,6 +110,7 @@ button:disabled {
     flex-grow: 1;
     padding: 24px 24px 0 24px;
     overflow-y: scroll;
+    font-size: 24px;
 }
 
 /* Message Styles */
@@ -120,7 +121,7 @@ button:disabled {
 
 .message__name {
     font-weight: 600;
-    font-size: 14px;
+    font-size: 36px;
     margin-right: 8px;
 }
 
@@ -130,7 +131,7 @@ button:disabled {
 }
 
 .message a {
-    color: #0070CC;
+    color: #0070CC
 }
 
 /* Message Composition Styles */
@@ -149,9 +150,9 @@ button:disabled {
 }
 
 .compose input {
-    border: 1px solid #eeeeee;
+    border: 2px solid #0f0f0f;
     width: 100%;
-    padding: 12px;
+    padding: 20px;
     margin: 0 16px 0 0;
     flex-grow: 1;
 }
@@ -163,7 +164,7 @@ button:disabled {
 }
 
 .compose button {
-    font-size: 14px;
+    font-size: 22px;
 }
 
 /* Chat Sidebar Styles */
