@@ -90,7 +90,7 @@ button:disabled {
 }
 
 .chat__sidebar {
-    height: 600px;
+    height: 1080px;
     color: white;
     background: #333744;
     width: 225px;
@@ -103,7 +103,7 @@ button:disabled {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-    max-height: 600px;
+    max-height: 1080px;
 }
 
 .chat__messages {
@@ -158,8 +158,8 @@ button:disabled {
 
 .fullcontainer{
     border: #0070CC solid 1px;
-    width: 720px;
-    height:600px
+    width: 1080px;
+    height:1080px
 }
 
 .compose button {
