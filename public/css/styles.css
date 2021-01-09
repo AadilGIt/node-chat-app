@@ -156,6 +156,12 @@ button:disabled {
     flex-grow: 1;
 }
 
+.fullcontainer{
+    border: #0070CC solid 1px;
+    width: 720px;
+    height:1080px
+}
+
 .compose button {
     font-size: 14px;
 }
